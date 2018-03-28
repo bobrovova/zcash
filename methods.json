@@ -1,4 +1,9 @@
 [
+	"getinfo",
+	"getblockhash",
+	"getblock",
+	"getrawtransaction",
+	"getblockchaininfo",
 	"getnewaddress",
 	"getbalance",
 	"getaddressesbyaccount",
